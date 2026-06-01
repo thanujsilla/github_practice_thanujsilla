@@ -1,4 +1,4 @@
-# github_practice_thanujsilla
+# What I Learned About GitHub
 
 
 This repository was created as part of a GitHub familiarization task. I made this to get hands-on experience with GitHub by actually using its core features rather than just reading about them. Below I have documented everything I did and what I learned along the way.
